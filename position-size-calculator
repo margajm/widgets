@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="utf-8">
+    <title>Calculadora de posición</title>
 <body>
 <script type="text/javascript">DukascopyApplet = {"type":"position_size_calculator","params":{"showHeader":false,"showFooter":false,"accentColor":"#000000","availableInstruments":"l:","instrument":"EUR/USD","accountCurrency":"USD","accountBalance":"1000","stopLossPips":"50","riskUnit":1,"riskPercentage":"2","width":"585","height":"364","adv":"popup"}};</script><script type="text/javascript" src="https://freeserv-static.dukascopy.com/2.0/core.js"></script>
 </body>
